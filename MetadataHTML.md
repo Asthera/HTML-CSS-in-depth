@@ -1,6 +1,8 @@
 # Metadata cheat sheet
 
-Earlier in the course, you learned about meta tags and how you can leverage them to convey information to search engines to better categorize your pages. We recommend that you keep this cheat sheet handy when building your web applications. The structure of a meta tag is as follows.
+Earlier in the course, you learned about meta tags and how you can leverage them to convey information to search engines to better categorize your pages. We recommend that you keep this cheat sheet handy when building your web applications.
+
+# The structure of a meta tag is as follows.
 
 ## Name
 
