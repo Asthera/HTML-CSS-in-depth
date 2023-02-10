@@ -1,4 +1,4 @@
-# Semantic HTML cheat sheet
+# Semantic HTMLt sheet chea
 
 There are hundreds of semantic tags available to help describe the meaning of your HTML documents. Below is a cheat sheet with some of the most common ones you’ll use in this course and in your development career.
 
