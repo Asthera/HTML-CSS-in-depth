@@ -1,9 +1,10 @@
-Semantic HTML cheat sheet
+# Semantic HTML cheat sheet
+
 There are hundreds of semantic tags available to help describe the meaning of your HTML documents. Below is a cheat sheet with some of the most common ones you’ll use in this course and in your development career.
 
-Sectioning tags
+## Sectioning tags
 
-Use the following tags to organize your HTML document into structured sections. 
+Use the following tags to organize your HTML document into structured sections.
 
 <header>
 The header of a content section or the web page. The web page header often contains the website branding or logo.
@@ -35,7 +36,7 @@ Specifies the summary or caption of a <details> element.
 <h1><h2><h3><h4><h5><h6>
 Headings on the web page. <h1> indicates the most important heading whereas <h6> indicates the least important. 
 
-Content tags
+## Content tags
 
 <blockquote>
 Used to describe a quotation.
@@ -141,7 +142,7 @@ Displays the containing text with a solid underline.
 <var>
 The containing text is a variable in a mathematical expression.
 
-Embedded content and media tags
+## Embedded content and media tags
 
 <audio>
 Used to embed audio in web pages.
@@ -173,9 +174,9 @@ Specifies media resources for <picture>, <audio> and<video> elements.
 <svg>
 Used to define Scalable Vector Graphics within a web page.
 
-Table tags
+## Table tags
 
-<table>
+**' table '>**
 Defines a table element to display table data within a web page.
 
 <thead>
