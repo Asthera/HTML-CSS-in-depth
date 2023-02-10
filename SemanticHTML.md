@@ -6,7 +6,8 @@ There are hundreds of semantic tags available to help describe the meaning of yo
 
 Use the following tags to organize your HTML document into structured sections.
 
-<header>
+```
+<header>*
 The header of a content section or the web page. The web page header often contains the website branding or logo.
 
 <nav>
@@ -35,9 +36,11 @@ Specifies the summary or caption of a <details> element.
 
 <h1><h2><h3><h4><h5><h6>
 Headings on the web page. <h1> indicates the most important heading whereas <h6> indicates the least important. 
+```
 
 ## Content tags
 
+```
 <blockquote>
 Used to describe a quotation.
 
@@ -141,9 +144,11 @@ Displays the containing text with a solid underline.
 
 <var>
 The containing text is a variable in a mathematical expression.
+```
 
 ## Embedded content and media tags
 
+```
 <audio>
 Used to embed audio in web pages.
 
@@ -151,10 +156,10 @@ Used to embed audio in web pages.
 Used to render 2D and 3D graphics on web pages.
 
 <embed>
-Used as a containing element for external content provided by an external application such as a media player or plug-in application. 
+Used as a containing element for external content provided by an external application such as a media player or plug-in application.
 
 <iframe>
-Used to embed a nested web page. 
+Used to embed a nested web page.
 
 <img>
 Embeds an image on a web page.
@@ -173,10 +178,12 @@ Specifies media resources for <picture>, <audio> and<video> elements.
 
 <svg>
 Used to define Scalable Vector Graphics within a web page.
+```
 
 ## Table tags
 
-**' table '>**
+```
+<table>
 Defines a table element to display table data within a web page.
 
 <thead>
@@ -205,3 +212,4 @@ Defines a semantic group of one or more columns in a table for formatting.
 
 <col>
 Defines a semantic column in a table.
+```
