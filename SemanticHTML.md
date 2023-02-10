@@ -79,9 +79,11 @@ Used to represent preformatted text. Typically rendered in the web browser using
 
 <ul>
 Unordered list
+```
 
-Inline tags
+## Inline tags
 
+```
 <a>
 An anchor link to another HTML document.
 
