@@ -6,7 +6,8 @@ There are hundreds of semantic tags available to help describe the meaning of yo
 
 Use the following tags to organize your HTML document into structured sections.
 
-**<header>**
+```
+<header>
 The header of a content section or the web page. The web page header often contains the website branding or logo.
 
 <nav>
